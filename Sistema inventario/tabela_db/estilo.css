@@ -1,0 +1,47 @@
+* {
+    font-family: 'Open Sans', serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 210vh;
+    background-color: #fff0;
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a:hover {
+    color: white;
+    background: black;
+}
+
+form {
+    justify-content: left;
+}
+
+.campos {
+    text-align: left;
+    justify-content: center;
+}
+
+
+/*
+div.botoes input {
+    margin-top: 20px;
+    border: 0px;
+    padding: 5px;
+    color: black;
+}*/

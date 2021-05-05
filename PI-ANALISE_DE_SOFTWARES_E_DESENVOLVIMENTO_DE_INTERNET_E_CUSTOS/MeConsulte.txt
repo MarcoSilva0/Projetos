@@ -1,0 +1,17 @@
+@MarcoSilva0 30/10/2020 às 09:09
+
+Font = Na data do dia 29/10/2020 assim como apresentado no Figma
+A font escolhida foi Roboto que, houve já a importação dela atráves
+do link do google fonts, encontrando no arquivo style.css
+
+icones = como nosso site é relacionado a Chronos coloquei uma ampulheta
+somente para representar mesmo, mudarei para nossa logo que é aprensentado
+na barra de navegação
+
+Navbar = a mesma no Figma possui uma cara de nuvem aquilo será colocado por um background-image
+que eu realizei, o conteudo ainda terá de ser discutido com o "grupo"
+
+OBSERVAÇÃO: Tente sempre deixar claro o que foi realizado e comentar se possivel principalmente no
+CSS e JS, para que o colega consiga bater o olho ler e entender onde e para que serve, desde já grato
+
+====================================///==================================================================
